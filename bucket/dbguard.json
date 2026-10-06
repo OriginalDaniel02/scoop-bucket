@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "description": "Catch database migrations that will lock production, and schema drift",
     "homepage": "https://github.com/OriginalDaniel02/dbguard",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OriginalDaniel02/dbguard/releases/download/v0.4.0/dbguard_windows_amd64.exe#/dbguard.exe",
-            "hash": "14dc51e91bb5efa4d1e7849948641fedeabb1eac7b7f8d2125baa22510a53abc"
+            "url": "https://github.com/OriginalDaniel02/dbguard/releases/download/v0.5.0/dbguard_windows_amd64.exe#/dbguard.exe",
+            "hash": "afd5a5d6be0c3f2797f0c659b41a06dcc95c690070e113a818a980d20cff6b84"
         }
     },
     "bin": "dbguard.exe",
